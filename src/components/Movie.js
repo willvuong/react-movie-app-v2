@@ -10,7 +10,7 @@ const Movie = ({ movie }) => {
     }
   
     return (
-        <div className="Movie col-lg-2 col-md-4 col-sm-6 col-xs-12 align-items-center">
+        <div className="Movie">
             <img src={tmdbImgPath + movie.poster_path} className="img-fluid" alt="poster" width="300"/>
 
             {/* <div className="movieInfo">

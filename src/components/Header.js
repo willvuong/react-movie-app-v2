@@ -2,7 +2,7 @@ import SearchBar from './SearchBar.js'
 
 const Header = ({ movieSearch, searchKeyword, searchEvent }) => {
     return (
-        <header className="Header p-4 bg-dark text-light">
+        <header className="Header">
             <div className="container">
                 <div className="d-flex justify-content-between align-items-center">
                     <h1>MovieDB</h1>
