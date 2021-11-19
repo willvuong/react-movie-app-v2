@@ -1,0 +1,173 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  margin: 0;
+}
+
+.header {
+  background-color: #373b69;
+  display: flex;
+  color: white;
+  padding: 1rem;
+  justify-content: space-between;
+}
+
+.form {
+  display: flex;
+}
+
+.searchBar {
+  padding: 1.5rem;
+  border: 1px solid black;
+  border-radius: 6rem;
+  background-color: #373b69;
+  color: white;
+}
+
+.movies {
+  display: flex;
+  flex-wrap: wrap; 
+  text-align: center;
+}
+
+.movie {
+  padding: 1rem;
+  width: 300px;
+  overflow: hidden;
+  position: relative;
+}
+
+.movieInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.movie img {
+  width: 100%;
+}
+
+.movieOverview {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #373b69;
+  
+  color: white;
+  padding: 1rem;
+  transform: translateY(100%);
+  transition: transform 0.3s ease-in-out;
+}
+
+.movie:hover .movieOverview {
+  transform: translateY(0%);
+}
+
+.movieOverview input {
+  background-color: white;
+  color: black;
+  padding: .5em;
+  border: 1px solid black;
+  border-radius: .5em;
+} */
+/* ---------------------------------------------------------------- */
+/* * {
+  margin: auto;
+}
+
+body {
+  font-family: Montserrat, BlinkMacSystemFont, 'Segoe UI';
+  width: 100%;
+  background-color: black;
+}
+
+.Header {
+  background-color: black;
+  color: rgb(228, 11, 11);
+  width: 100%;
+  display: flex;
+  align-content: space-between;
+} */
+
+/* .movie {
+  width: 14.2%;
+  box-sizing: border box;
+  display: inline-block;
+}
+
+.movie img {
+  height: 350px;
+  width: 250px;
+} */
+
+/* .movies {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.movie {
+  flex: 14%;
+  width: 14.2%;
+  float: left;
+}
+
+.movie img {
+  height: 350px;
+  width: 250px;
+  opacity: 0.8;
+} */
+
+/* .movie {
+  padding: 1rem;
+  width: 300px;
+  overflow: hidden;
+  position: relative;
+}
+
+.movieInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.movie img {
+  width: 100%;
+}
+
+.movieOverview {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #373b69;
+  
+  color: white;
+  padding: 1rem;
+  transform: translateY(100%);
+  transition: transform 0.3s ease-in-out;
+}
+
+.movie:hover .movieOverview {
+  transform: translateY(0%);
+}
+
+.movieOverview input {
+  background-color: white;
+  color: black;
+  padding: .5em;
+  border: 1px solid black;
+  border-radius: .5em;
+} */

@@ -1,0 +1,5 @@
+- this app is meant to pull data through an api in order to display specifically searched movies
+- the app initially renders data through the api which then can be changed when searching for another movie, where it then renders movie data from the specific keyword that is entered
+- an empty use state is used in order to set the specific movie keyword that is needed to be searched 
+- all the movies that match the speicifed keyword is first searched through the api -> converted to json objects -> results send to the movies component as props -> movie component where 
+  the data is then handled and rendered onto the page using it's attributes
